@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details open>
+  <summary>Technologies</summary>
+  <ol>
+    <li>python</li>
+    <li>django</li>
+    <li>django-channels</li>
+    <li>HTML (html 5)</li>
+    <li>css</li>
+    <li>javascript</li>
+  </ol>
+</details>
